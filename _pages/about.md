@@ -2,23 +2,18 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <b><i> Computer Vision / Machine Learning Specialist </i></b>
 
 profile:
   align: right
   image: prof_pic.jpg
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
 
-news: true  # includes a list of news items
+news: false  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a machine learning professional, passionate about computer vision. I work at 3DUniversum, where, in addition to other projects, I currently handle and develop the full process of generating high quality deepfakes - from the studio recording and the deep learnig pipeline to the video editting process. In the past 3 years, I have taken charge on projects on novel viewpoint generation, semantic segmentation of indoor scenes, face relighting, face analysis models (age and emotion recognition). I provided supervision for UvA Master AI students for their thesis projects on computational photography, optical flow, deepfake detection, autonomous driving. 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Previously, I finished the Artificial Intelligence Master's at the University of Amsterdam with honors. My thesis studies the benefits of using features rich on 3D facial information for age estimation. Before that, I was a student at Sofia University, where I completed my Computer Science Bachelor's degree. There I lead practical sessions in teaching students as part of the course Objective Oriented Programming. In the past, I've participated in national and international programming contests as part of competetive programming courses.
